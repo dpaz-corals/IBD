@@ -4,7 +4,6 @@
 
 Dennis LE, Favoretto F, Balart EF, Hellberg ME, Munguia-Vega A, Sánchez-Ortiz A, Paz-García DA (In Review). [Isolation by environment and distance: contrasting patterns of genetic diversity in two scleractinian corals in the Gulf of California](https://www.marinebiogenomics.com/publicaciones). *Frontiers in Marine Science* https://doi.org/
 
-**Poner foto de postada!!!**
 
 ![Portada](media/Portada.jpg)
 
