@@ -14,7 +14,7 @@ Dennis LE, Favoretto F, Balart EF, Hellberg ME, Munguia-Vega A, Sánchez-Ortiz A
 
 The study area includes the Espíritu Santo Archipelago National Marine Park and five surrounding sites outside of the protected area within the southern Gulf of California, Mexico (Fig. 1).
 
-![Mapa](media/mapa.jpg)
+![Map](Media/Fig01_map.jpg)
 
 This MPA has three levels of protection: 1) no-take zones where anchoring of boats and fishing is prohibited; 2) buffer zones of “traditional use”; and 3) buffer zones of “sustainable use” (CONANP 2014).
 
