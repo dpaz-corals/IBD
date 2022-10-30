@@ -1,18 +1,34 @@
-# "Isolation by environment and distance: contrasting patterns of genetic diversity in two scleractinian corals in the Gulf of California"
+# Isolation by environment and distance: Contrasting patterns of genetic diversity in two scleractinian corals in the Gulf of California
+
+## Information repository for Manuscript:
 
 Dennis LE, Favoretto F, Balart EF, Hellberg ME, Munguia-Vega A, Sánchez-Ortiz A, Paz-García DA (In Review). [Isolation by environment and distance: contrasting patterns of genetic diversity in two scleractinian corals in the Gulf of California](https://www.marinebiogenomics.com/publicaciones). *Frontiers in Marine Science* https://doi.org/
 
-IBE is a information repository for Manuscript "Isolation by environment and distance: contrasting patterns of genetic diversity in two scleractinian corals in the Gulf of California" (Frontiers in Marine Science, Deniss et al. in Review).
+**Poner foto de postada!!!**
 
-**Poner link del Paper aqui**
+![Portada](media/Portada.jpg)
 
 
-# "Morphological stasis masks ecologically divergent coral species on tropical reefs"
-Bongaerts P, Cooke I, Ying H, Wels D, Haan den S, Hernandez-Agreda, Brunner C, Dove S, Englebert N, Eyal G, Forêt S, Grinblat M, Hay KB, Harii S, Hayward DC, Lin Y, Mihaljević M, Moya A, Muir P, Sinniger F, Smallhorn-West P, Torda G, Ragan MA, van Oppen MJH, Hoegh-Guldberg O (2021) [Morphological stasis masks ecologically divergent coral species on tropical reefs](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00367-5). *Current Biology* https://doi.org/10.1016/j.cub.2021.03.028
+### Study Area (Gulf of California)
 
-![Norbert_collecting_from_large_Pachyseris_colony_-_Pim_Bongaerts](media/Norbert_collecting_from_large_Pachyseris_colony_-_Pim_Bongaerts.jpg)
+The study area includes the Espíritu Santo Archipelago National Marine Park and five surrounding sites outside of the protected area within the southern Gulf of California, Mexico (Fig. 1).
 
-### A - Genome assembly and annotation (PacBio)
+![Mapa](media/mapa.jpg)
+
+This MPA has three levels of protection: 1) no-take zones where anchoring of boats and fishing is prohibited; 2) buffer zones of “traditional use”; and 3) buffer zones of “sustainable use” (CONANP 2014).
+
+### Genetic Diversity
+
+ A total of 12 and 14 haplotypes (GenBank accession numbers OP271742-OP271753 and OP554198-OP554211) were identified from *Pocillopora* and *P. panamensis* corals, respectively.
+
+## R scripts
+
+* **Script 01**
+* **Script 02**
+* **Script 03**
+* **Script 04**
+* **Script 05**
+
 
 **[*Pachyseris speciosa* genome (v0.12)](genome/)** - Genome scaffolds and gene models, also available through: http://pspe.reefgenomics.org/. Genomic DNA was extracted from the sperm of a *P. speciosa* colony belonging to the "green" lineage (accession code [PRJNA686482](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA686482)).
 
