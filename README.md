@@ -8,6 +8,7 @@ Dennis LE, Favoretto F, Balart EF, Hellberg ME, Munguia-Vega A, Sánchez-Ortiz A
 
 ![Portada](media/Portada.jpg)
 
+## General information about the Research
 
 ### Study Area (Gulf of California)
 
