@@ -28,7 +28,7 @@ This MPA has three levels of protection: 1) no-take zones where anchoring of boa
 ## R scripts
 
 * [HDplotscriptfj.R](Scripts/HDplotscriptfj.R)
-* [Script 02](Scripts/PCUPCARscript.R)
-* **Script 03**
-* **Script 04**
-* **Script 05**
+* [PCU_Braycurtis_stackbarRscript.R](Scripts/PCU_Braycurtis_stackbarRscript.R)
+* [PCUPCARscript.R](Scripts/PCUPCARscript.R)
+* [Poci_clusterRscript.R](Scripts/Poci_clusterRscript.R)
+* [raotrendcleanscript.R](Scripts/raotrendcleanscript.R)
