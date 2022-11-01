@@ -27,9 +27,9 @@ This MPA has three levels of protection: 1) no-take zones where anchoring of boa
 
 ## R scripts
 
-* [HDplotscriptfj.R](Scripts/HDplotscriptfj.R)
-* [PCU_Braycurtis_stackbarRscript.R](Scripts/PCU_Braycurtis_stackbarRscript.R)
-* [PCUPCARscript.R](Scripts/PCUPCARscript.R)
-* [Poci_clusterRscript.R](Scripts/Poci_clusterRscript.R)
-* [raotrendcleanscript.R](Scripts/raotrendcleanscript.R)
-* [PCU_stackbarRscriptGH.R](Scripts/PCU_stackbarRscriptGH.R)
+* [Cluster analysis (Poci_clusterR script)](Scripts/Poci_clusterRscript.R)
+* [Plot Haplotype and nucleotide diversities by site (HDplotscriptfj.R)](Scripts/HDplotscriptfj.R)
+* [Plotting the PCU stackbar (PCU_stackbarRscriptGH.R)](Scripts/PCU_stackbarRscriptGH.R)
+* [Plot mean Rao over time (raotrendcleanscript.R)](Scripts/raotrendcleanscript.R)
+* [Principal component analysis of PCU data by site (pcupcaRscript)](Scripts/PCUPCARscript.R)
+* [Bray Curtis calculations of PCu data and then mantel test with Bray Curtis values against genetic distances (Phipt)(PCU_Braycurtis_stackbarRscript.R)](Scripts/PCU_Braycurtis_stackbarRscript.R)
