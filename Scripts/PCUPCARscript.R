@@ -1,16 +1,16 @@
 ========== <>< <>< ************   Script Information   ********** ><> ><>  ==========
 
-# Title: Ejemplo del Script (Análisis contenido en el script)
-# Author details: Laura E. Denisse and David A. Paz-García
+# Title: Principal Component Analysis of Percent Coverage Unit data of benthic assemblages
+# Author details: Laura E. Dennis and David A. Paz-GarcÃ­a
 # Contact details: dpaz@cibnor.mx
 
-# Script and data info: This script performs a time series analyses on count data.  
+# Script and data info: This script performs a principal component analysis on the count values of benthic assemblages organized as functional groups within sites.  
 # Stacked Bar chart for PCU
 
-# Data Information: Data consists of counts of bird species.
-# Data was collected in the hunter valley region between 1990 and 1991. 
+# Data Information: Data consists of percent coverage units of the present benthic assemblages organised into functional groups.
+# Data was collected in the Gulf of California, Mexico in 2018. 
 
-# Copyright (c): 2022 Laura E. Denisse and David A. Paz-García
+# Copyright (c): 2022 Laura E. Dennis and David A. Paz-GarcÃ­a
 
 
 ========== <>< <>< ************      Dependencies      ********** ><> ><>  ==========
