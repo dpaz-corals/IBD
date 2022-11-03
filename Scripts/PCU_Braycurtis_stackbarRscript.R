@@ -1,16 +1,16 @@
 ========== <>< <>< ************   Script Information   ********** ><> ><>  ==========
 
-# Title: Ejemplo del Script (Análisis contenido en el script)
-# Author details: Laura E. Denisse and David A. Paz-García
+# Title: Bray Curtis calculations and Mantel test to test for IBE
+# Author details: Laura E. Dennis and David A. Paz-GarcÃ­a
 # Contact details: dpaz@cibnor.mx
 
-# Script and data info: This script performs a time series analyses on count data.  
-# Stacked Bar chart for PCU
+# Script and data info: This script performs first Bray Curtis calculations to determine environmental distances using the present benthic assemblages organized by functional group and then performs a Mantel test with this data against genetic distances (PHipt).  
+# Bray Curtis distances for a Mantel test
 
-# Data Information: Data consists of counts of bird species.
-# Data was collected in the hunter valley region between 1990 and 1991. 
+# Data Information: Data consists of percent coverage unit counts of benthic assemblages recorded at each site and organized into functional groups. Genetic data of the coral species Pocillopora Type 1 species and Porites panamensis is also included as genetic distances (PHipT) calculated by Genalex.
+# Data was collected in the Gulf of California, Meixco between 2015 and 2019. 
 
-# Copyright (c): 2022 Laura E. Denisse and David A. Paz-García
+# Copyright (c): 2022 Laura E. Dennis and David A. Paz-GarcÃ­a
 
 
 ========== <>< <>< ************      Dependencies      ********** ><> ><>  ==========
