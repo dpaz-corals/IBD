@@ -1,15 +1,15 @@
 ========== <>< <>< ************   Script Information   ********** ><> ><>  ==========
 
-# Title: Ejemplo del Script (Análisis contenido en el script)
-# Author details: Laura E. Denisse and David A. Paz-García
+# Title: Mean Rao's Q trend over time by site.
+# Author details: Laura E. Dennis and David A. Paz-GarcÃ­a
 # Contact details: dpaz@cibnor.mx
 
-# Script and data info: This script performs a time series analyses on count data.  
+# Script and data info: This script performs a time series analyses on satellite data that has been converted into Rao's Q values.  
 
-# Data Information: Data consists of counts of bird species.
-# Data was collected in the hunter valley region between 1990 and 1991. 
+# Data Information: Data consists of counts of Rao's Q values calculated through satellite images.
+# Data was collected in the Gulf of California between 2014 and 2017. 
 
-# Copyright (c): 2022 Laura E. Denisse and David A. Paz-García
+# Copyright (c): 2022 Laura E. Dennis and David A. Paz-GarcÃ­a
 
 
 ========== <>< <>< ************      Dependencies      ********** ><> ><>  ==========
