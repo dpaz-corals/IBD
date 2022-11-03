@@ -1,15 +1,15 @@
 ========== <>< <>< ************   Script Information   ********** ><> ><>  ==========
 
-# Title: Ejemplo del Script (Análisis contenido en el script)
-# Author details: Laura E. Denisse and David A. Paz-García
+# Title: Plotting Haplotype and Nucleotide Diversities
+# Author details: Laura E. Dennis and David A. Paz-GarcÃ­a
 # Contact details: dpaz@cibnor.mx
 
-# Script and data info: This script performs a time series analyses on count data.  
+# Script and data info: This script plots the values of haplotype and nucleotide diversities by site on a double axes graph.  
 
-# Data Information: Data consists of counts of bird species.
-# Data was collected in the hunter valley region between 1990 and 1991. 
+# Data Information: Data consists of haplotype and nucleotide diversities by site calculated with DNAsp.
+# Data was collected in the Gulf of California, Mexico between 2015 and 2019. 
 
-# Copyright (c): 2022 Laura E. Denisse and David A. Paz-García
+# Copyright (c): 2022 Laura E. Dennis and David A. Paz-GarcÃ­a
 
 
 ========== <>< <>< ************      Dependencies      ********** ><> ><>  ==========
@@ -18,9 +18,6 @@ library(ggplot2)
 library(dplyr)
 library(patchwork) # To display 2 charts together
 library(hrbrthemes)
-
-library(dplyr) 
-library(ggplot2)
 library(devtools)
 
 
