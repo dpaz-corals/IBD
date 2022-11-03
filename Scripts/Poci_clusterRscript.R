@@ -1,16 +1,16 @@
 ========== <>< <>< ************   Script Information   ********** ><> ><>  ==========
 
-# Title: Ejemplo del Script (Análisis contenido en el script)
-# Author details: Laura E. Denisse and David A. Paz-García
+# Title: Cluster analysis of genetic data
+# Author details: Laura E. Dennis and David A. Paz-GarcÃ­a
 # Contact details: dpaz@cibnor.mx
 
-# Script and data info: This script performs a time series analyses on count data.  
-# Stacked Bar chart for PCU
+# Script and data info: This script performs a cluster analysis on genetic data from a PCoA.  
+# Cluster analysis on a PCoA
 
-# Data Information: Data consists of counts of bird species.
-# Data was collected in the hunter valley region between 1990 and 1991. 
+# Data Information: Data consists of Eigenvalues from a PCoA performed by Genalex with the genetic data of Pocillopora Type 1 species and Porites panamensis.
+# Data was collected in the Gulf of California, Mexico between 2015 and 2019. 
 
-# Copyright (c): 2022 Laura E. Denisse and David A. Paz-García
+# Copyright (c): 2022 Laura E. Dennis and David A. Paz-GarcÃ­a
 
 
 ========== <>< <>< ************      Dependencies      ********** ><> ><>  ==========
@@ -61,27 +61,6 @@ rownames(silpoci2) <- rownames(Pocv4_PCoA)
 fviz_silhouette(silpoci2, label = TRUE)
 fviz_cluster(km_respoci2, Pocv4_PCoA, ggtheme = theme_minimal())
 
-
-
-# Gap stat
-set.seed(123)
-fviz_nbclust(Pocv4_PCoA, kmeans, k.max=7, nstart = 25,  method = "gap_stat", nboot = 500) +
-  labs(subtitle = "Gap statistic method Pocillopora")
-
-# Optimal
-nbclust_outpoci <- NbClust(data = Pocv4_PCoA, diss = NULL, distance = "euclidean", min.nc = 2, max.nc = 7, method = "kmeans")
-
-# create a dataframe of the optimal number of clusters
-nbclust_plotpoci <- data.frame(clusters = nbclust_outpoci$Best.nc[1, ])
-# select only indices which select between 2 and 5 clusters
-nbclust_plotpoci <- subset(nbclust_plotpoci, clusters >= 2 & clusters <= 5)
-
-# create plot
-ggplot(nbclust_plotpoci) +
-  aes(x = clusters) +
-  geom_histogram(bins = 30L, fill = "#0c4c8a") +
-  labs(x = "Number of clusters", y = "Frequency among all indices", title = "Optimal number of clusters") +
-  theme_minimal()
 
 
 #cluster analyses
