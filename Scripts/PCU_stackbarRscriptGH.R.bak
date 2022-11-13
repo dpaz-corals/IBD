@@ -1,10 +1,10 @@
 ========== <>< <>< ************   Script Information   ********** ><> ><>  ==========
 
 # Title: Stacked Bar chart for PCU
-# Author details: Laura E. Denisse and David A. Paz-García
+# Author details: Laura E. Denisse and David A. Paz-Garcï¿½a
 # Contact details: dpaz@cibnor.mx
 
-# Copyright (c): 2022 Laura E. Denisse and David A. Paz-García
+# Copyright (c): 2022 Laura E. Denisse and David A. Paz-Garcï¿½a
 
 
 ========== <>< <>< ************      Dependencies      ********** ><> ><>  ==========
@@ -15,7 +15,7 @@ PCU1<- data.frame(PCUstackdata)
 
 
 # Stacked + percent
-ggplot(PCU1, aes(fill=Group, y=Percent, x=Site)) + 
+ggplot(PCU1, aes(fill=Group, y=Percent, x=Site)) +
   geom_bar(position="fill", stat="identity")
 
 ========== <>< <>< ************        END / FIN       ********** ><> ><>  ==========
