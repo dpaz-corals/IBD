@@ -1,8 +1,8 @@
-# Isolation by environment and distance: Contrasting patterns of genetic diversity in two scleractinian corals in the Gulf of California
+# Isolation by disturbance: a pattern of genetic structure of the coral *Pocillopora grandis* in the Gulf of California
 
 ## Information repository for Manuscript:
 
-Dennis LE, Favoretto F, Balart EF, Hellberg ME, Munguia-Vega A, Sánchez-Ortiz A, Paz-García DA (In Review). [Isolation by environment and distance: contrasting patterns of genetic diversity in two scleractinian corals in the Gulf of California](https://www.marinebiogenomics.com/publicaciones). *Frontiers in Marine Science* (https://doi.org/)
+Dennis LE, Favoretto F, Balart EF, Hellberg ME, Munguia-Vega A, Sánchez-Ortiz A, Paz-García DA (In Review). [Isolation by disturbance: a pattern of genetic structure of the coral *Pocillopora grandis* in the Gulf of California](https://www.marinebiogenomics.com/publicaciones). *Marine Ecology Progress Series* (https://doi.org/)
 
 
 ![Portada](Media/Portada.jpg)
