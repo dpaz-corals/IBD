@@ -2,7 +2,7 @@
 
 ## Information repository for Manuscript:
 
-Dennis LE, Favoretto F, Balart EF, Hellberg ME, Munguia-Vega A, Sánchez-Ortiz A, Paz-García DA (In Review). [Isolation by disturbance: a pattern of genetic structure of the coral *Pocillopora grandis* in the Gulf of California](https://www.marinebiogenomics.com/publicaciones). *Marine Ecology Progress Series* (https://doi.org/)
+Dennis LE, Favoretto F, Balart EF, Munguia-Vega A, Sánchez-Ortiz A, Paz-García DA (In Review). [Isolation by disturbance: a pattern of genetic structure of the coral *Pocillopora grandis* in the Gulf of California](https://www.marinebiogenomics.com/publicaciones). *Marine Ecology Progress Series* in review (https://doi.org/)
 
 
 ![Portada](Media/Portada.jpg)
