@@ -1,4 +1,4 @@
-# Isolation by disturbance: a pattern of genetic structure of the coral *Pocillopora grandis* in the Gulf of California
+# Isolation by disturbance (ID): a pattern of genetic structure of the coral *Pocillopora grandis* in the Gulf of California
 
 ## Information repository for Manuscript:
 
